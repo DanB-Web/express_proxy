@@ -2,12 +2,6 @@
 Proxy Express server for uploading files
 
 - `npm install`
-- Create `.env` file
-
-```
-PORT=3000
-NODE_ENV=development
-KEY=test
-```
-- Create `files` directory in project root
+- Edit `.env` file if required
+- Create empty `files` directory in project root
 - `npm run server`
